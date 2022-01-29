@@ -21,3 +21,11 @@ Verify that the plugin loaded successfully
 ```
 Use Konga to configure and view the effect
 
+Add Plugin To Route
+![image](https://user-images.githubusercontent.com/22147280/151648682-6a1749c7-5c8f-41db-92c3-997bc5c502f0.png)
+
+Configure plugin parameters
+![image](https://user-images.githubusercontent.com/22147280/151648708-c175481a-5a38-4420-84f1-3967f8a36185.png)
+
+View interface requests
+![image](https://user-images.githubusercontent.com/22147280/151648721-18dbaed4-87c2-4eba-8da5-1b6a51c1a544.png)
