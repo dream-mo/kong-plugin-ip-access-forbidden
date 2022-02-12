@@ -7,7 +7,7 @@ return {
             config = {
                 type = "record",
                 fields = {
-                    { ip_addresses = { type = "array", required = true, elements = typedefs.name }, },
+                    { hosts = { type = "array", required = true, elements = typedefs.host }, },
                     { status_code = { type = "integer", required = false, default = 403 } },
                     { tip_message = { type = "string", required = false, default = "Access Forbidden" } }
                 },
